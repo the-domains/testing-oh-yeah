@@ -13,6 +13,8 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.2786898850463331
+analytics:
+  google: UA-41841548-14
 author:
   email: info@bbuzz.me
   url: bbuzz.me
