@@ -1,14 +1,23 @@
-layout_spectrum: 0.2786898850463331
 typography_spectrum: 0.885689037386328
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9078370430506766
   lightness: 0.5432251603342593
   saturation: 0.3781747599132359
   rhythmicContrast: 0.6235807875636965
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-name: Testing Oh yeah
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.2786898850463331
+author:
+  email: info@bbuzz.me
+  url: bbuzz.me
+  name: The bbuzz.me Team
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe0da86-f112-4626-8634-6c08fad48ab7.png'
+name: bbuzz.me
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6a3324-9aab-4f28-9d54-702043142cdc.png'
+title: The Blue Magazine
